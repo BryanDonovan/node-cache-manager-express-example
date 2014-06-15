@@ -14,7 +14,7 @@ your apps.
     npm install .
     npm start
 
-Then browse to [localhost:3000/users/123](localhost:3000/users/123)
+Then browse to [localhost:3000/users/123](http://localhost:3000/users/123)
 
 Refresh the page a few times to see how the request time changes.
 
